@@ -17,6 +17,10 @@ input {
     padding: 10px 15px;
     width: 100%;
 }
+h1{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 h2 {
     font-size: 1.5rem;
